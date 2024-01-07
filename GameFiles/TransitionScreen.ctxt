@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TransitionScreen
+comment0.text=\n\ Blinds\ that\ go\ down\ to\ partially\ block\ the\ screen\ to\ \n\ indicate\ that\ a\ day\ passed.\n\ \n\ @author\ Marco\ Luong\n\ @version\ November\ 2022\n
+comment1.params=stayOnScrn
+comment1.target=TransitionScreen(boolean)
+comment1.text=\n\ @param\ stayOnScrn\ If\ true,\ the\ blinds\ won't\ go\ back\ up\ after\ coming\ down\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ DailyUpgrade\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=
+comment4.target=boolean\ doneTransition()
+numComments=5

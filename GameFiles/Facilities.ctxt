@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Facilities
+comment0.text=\n\ Write\ a\ description\ of\ class\ Facilities\ here.\n\ \n\ @author\ Joey\ Guan,\ Clara\ Hong,\ Marco\ Luong\n
+comment1.params=
+comment1.target=void\ upgrade()
+comment2.params=
+comment2.target=void\ upgradeAni()
+comment2.text=\n\ Animation\ played\ to\ indicate\ that\ the\ facility\ is\ upgraded\n
+comment3.params=
+comment3.target=boolean\ isUpgraded()
+comment3.text=\n\ Checks\ if\ this\ was\ recently\ upgraded\ 'at\ night'\n
+comment4.params=
+comment4.target=int\ getUpgradeCost()
+comment5.params=
+comment5.target=int\ getLevel()
+comment6.params=
+comment6.target=boolean\ atMaxLevel()
+numComments=7

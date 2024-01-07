@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HitBox
+comment0.text=\n\ This\ class\ creates\ square\ actors\ used\ for\ detection.\n\ They\ have\ a\ customizable\ width\ and\ height,\ and\ can\ return\ \n\ whether\ or\ not\ it\ is\ intersecting\ another\ Actor.\n\ \n\ @author\ Joey\ Guan\n\ @version\ November\ 2022\n
+comment1.params=width\ height
+comment1.target=HitBox(int,\ int)
+comment1.text=\n\ Creates\ a\ simple\ square\ Actor\ for\ collision\ detection\n\ \n\ @param\ width\ \ \ The\ width\ of\ the\ HitBox\ square\n\ @param\ height\ \ The\ height\ of\ the\ HitBox\ square\n
+comment2.params=a
+comment2.target=boolean\ isIntersecting(greenfoot.Actor)
+numComments=3

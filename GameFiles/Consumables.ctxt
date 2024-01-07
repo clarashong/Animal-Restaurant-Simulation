@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Consumables
+comment0.text=\n\ Consumables\ is\ the\ superclass\ for\ Food\ and\ Drinks.\ Consumables\ are\ anything\n\ that\ customers\ can\ order\ to\ eat/drink.\n\ \n\ @author\ Clara\ Hong\n\ @version\ November\ 2022\n
+comment1.params=
+comment1.target=void\ consume()
+comment2.params=
+comment2.target=boolean\ getConsumed()
+numComments=3

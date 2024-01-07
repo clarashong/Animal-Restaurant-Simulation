@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ServingCounter
+comment0.text=\n\ Serving\ Counter\ is\ a\ subclass\ of\ the\ Facilities\ class.\ \n\ <p>\n\ The\ counter\ is\ a\ stationary\ object\ where\ Chef\ Gumi\ will\ place\ down\ finished\ \n\ food\ orders\ so\ that\ the\ server\ can\ pick\ them\ up\ and\ deliver\ them\ \n\ to\ customers.\ The\ counter\ has\ a\ certain\ amount\ of\ slots\ that\ can\ fit\ food,\ \n\ and\ the\ amount\ of\ slots\ increases\ with\ upgrades.\ The\ counter\ is\ also\ the\ \n\ spot\ where\ Timmy\ will\ pass\ the\ orders\ to\ Gumi\ to\ cook.\ \n\ <p>\n\ Graphics\:\ The\ image\ for\ the\ serving\ counter\ is\ a\ modified\ version\ of\ the\ \n\ Casual\ Log's\ image\ from\ the\ Animal\ Restaurant\ Wiki.\ The\ extra\ items\ on\ the\ \n\ original\ counter's\ image\ have\ been\ digitally\ removed\ and\ painted\ over\ to\ fit\n\ the\ simulation's\ need.\ Link\ to\ the\ original\ image\:\ \n\ https\://animalrestaurant.fandom.com/wiki/Facilities/Restaurant\#Coffee_Bar\n\ \n\ @author\ Clara\ Hong\ \n\ @version\ November\ 2022\n
+comment1.params=
+comment1.target=ServingCounter()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ genSlotYs()
+comment3.text=\n\ This\ method\ generates\ an\ array\ of\ all\ the\ yOffsets\ for\ each\ spot\ on\ the\ counter\n\ as\ wells\ as\ the\ y-position\ of\ each\ slot\ \n
+comment4.params=
+comment4.target=int\ genFreeSlotLocation()
+comment4.text=\n\ Generates\ the\ y-coordinate\ of\ where\ the\ food\ should\ go\ (based\ on\ slot\ availability)\n\ This\ helps\ the\ waiter/cook\ know\ where\ to\ put\ down\ the\ dish/cup/food\n
+comment5.params=
+comment5.target=void\ fillSlot()
+comment6.params=
+comment6.target=void\ emptySlot()
+comment7.params=
+comment7.target=int\ getFilledSlots()
+comment8.params=
+comment8.target=int\ getNumSlots()
+numComments=9

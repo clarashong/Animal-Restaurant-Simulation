@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Stove
+comment0.text=\n\ Stove\ is\ a\ subclass\ of\ Facilities.\ Chef\ Gumi\ uses\ the\ stove\ in\ order\ to\ \n\ cook\ the\ food.\ Like\ most\ facilities,\ the\ stove\ can\ be\ upgraded,\ and\ with\ \n\ each\ upgrade,\ its\ appearance\ becomes\ more\ modern\ and\ advanced.\ \n\ \n\ @author\ Joey\ Guan\n\ @version\ November\ 2022\n
+comment1.params=
+comment1.target=Stove()
+comment2.params=food
+comment2.target=void\ cookFood(Food)
+comment3.params=
+comment3.target=void\ upgrade()
+comment4.params=
+comment4.target=boolean\ isCooking()
+comment5.params=b
+comment5.target=void\ setIsCooking(boolean)
+numComments=6

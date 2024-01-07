@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ValueAdjuster
+comment0.text=\n\ The\ arrows\ on\ the\ side\ of\ the\ complete\ value\ adjuster.\ Two\ value\ adjusters\ \n\ are\ linked\ together\ to\ share\ a\ "linked\ value"\ and\ exchange\ information\ \n\ based\ on\ that.\ One\ arrow\ will\ add\ to\ the\ value\ by\ a\ certain\ amount,\ while\ \n\ the\ other\ subtracts\ by\ the\ same\ amount.\n\ \n\ @author\ Marco\ Luong\ \n\ @version\ November\ 2022\n
+comment1.params=w\ h\ txt\ valName\ max\ min\ originalValue\ changeBy\ reflected\ linkedValue
+comment1.target=ValueAdjuster(int,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ boolean,\ SuperTextBox)
+comment1.text=\n\ @param\ w\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Width\ of\ the\ arrow\n\ @param\ h\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Height\ of\ the\ button\n\ @param\ txt\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Used\ to\ display\ how\ much\ the\ value\ changes\ by\n\ @param\ valName\ \ \ \ \ \ \ \ \ \ \ Name\ of\ the\ value\ being\ changed\n\ @param\ max\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Maximum\ value\ the\ user\ can\ adjust\ to\n\ @param\ min\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Minimum\ value\ the\ user\ can\ adjust\ to\n\ @param\ originalValue\ \ \ \ \ Inital\ value\ of\ the\ value\ being\ adjusted\n\ @param\ changeBy\ \ \ \ \ \ \ \ \ \ How\ much\ to\ adjust\ by\ each\ time\ it's\ clicked\n\ @param\ reflected\ \ \ \ \ \ \ \ \ Facing\ left/right\n\ @param\ linkedValue\ \ \ \ \ \ \ The\ textbox\ that\ displays\ the\ value\n
+comment2.params=
+comment2.target=void\ clicked()
+comment3.params=va2
+comment3.target=void\ setCorrespondingAdjuster(ValueAdjuster)
+comment4.params=val
+comment4.target=void\ setUpdatedValue(int)
+comment5.params=
+comment5.target=int\ getNewValue()
+numComments=6

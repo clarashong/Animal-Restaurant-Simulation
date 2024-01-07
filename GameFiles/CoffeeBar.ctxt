@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CoffeeBar
+comment0.text=\n\ CoffeeBar\ is\ a\ subclass\ of\ Facilities,\ and\ like\ most\ facilities\ can\ be\ \n\ upgraded\ to\ gain\ more\ sophisticated\ graphics.\ Drinks\ are\ made/brewed\ at\ the\ \n\ coffee\ bar.\ \n\ \n\ @author\ Joey\ Guan\n\ @version\ November\ 2022\n
+comment1.params=
+comment1.target=CoffeeBar()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=food
+comment3.target=void\ brew(Food)
+comment4.params=
+comment4.target=void\ upgrade()
+numComments=5

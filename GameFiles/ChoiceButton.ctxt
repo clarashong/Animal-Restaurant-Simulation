@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ChoiceButton
+comment0.text=\n\ A\ button\ that\ responds\ with\ a\ true/false\ when\ clicked.\n\ What\ the\ button\ does\ is\ not\ included\ and\ is\ written\ outside\n\ of\ the\ actor.\n\ \n\ @author\ Marco\ Luong\n
+comment1.params=h\ txt\ fontSize\ font\ border\ fill
+comment1.target=ChoiceButton(int,\ java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ greenfoot.Color)
+comment1.text=\n\ @param\ h\ \ \ \ \ \ \ \ \ Height\ of\ the\ button\n\ @param\ txt\ \ \ \ \ \ \ Centred\ text\ that\ can\ tell\ the\ user\ what\ the\ button\ does\n\ @param\ fontSize\ \ Size\ of\ the\ text\n\ @param\ font\ \ \ \ \ \ Colour\ of\ the\ text\n\ @param\ border\ \ \ \ Colour\ of\ the\ button\ border\n\ @param\ fill\ \ \ \ \ \ Colour\ of\ the\ centre\ of\ the\ button\n
+comment2.params=
+comment2.target=void\ clicked()
+comment3.params=
+comment3.target=boolean\ getIsClicked()
+numComments=4

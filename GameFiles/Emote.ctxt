@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Emote
+comment0.text=\n\ Emotes\ are\ made\ by\ customers\ or\ staff\ to\ express\ themselves.\ \n\ Customers\ have\ a\ "thinking"\ emote\ to\ show\ that\ they're\ thinking\ about\ \n\ what\ to\ order.\n\ Customers\ also\ have\ a\ "complaint"\ emote\ to\ complain\ about\ a\ dirty\ table.\ \n\ Both\ Timmy\ and\ Customers\ use\ the\ ordering\ emote\ to\ order\ foor\ or\ tell\ the\ \n\ chef\ about\ the\ order.\ \n\ \n\ @author\ Clara\ Hong\n\ @version\ November\ 2022\n
+comment1.params=reason
+comment1.target=Emote(java.lang.String)
+comment1.text=\n\ Constructor\ for\ other\ bubbles\n\ \n\ @param\ reason\ The\ kind\ of\ emote\ needed\n
+comment2.params=index
+comment2.target=Emote(int)
+comment2.text=\n\ Contructor\ for\ food\ order\ speech\ bubbles\n\ \n\ @param\ index\ The\ food\ item\ it\ is\ emoting\ for\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Emote\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=4

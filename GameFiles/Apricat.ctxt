@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Apricat
+comment0.text=\n\ Apricat\ is\ the\ cleaner\ for\ the\ restaurant\ and\ a\ subclass\n\ of\ the\ Staff\ class.\ To\ be\ used,\ she\ just\ needs\ to\ be\ \n\ placed\ in\ the\ world.\ \n\ <p>\n\ She\ targets\ dirty\ tables\ and\ goes\ to\ clean\ them.\ She\ has\ a\ maximum\ amount\ of\ \n\ tables\ that\ she\ can\ clean\ at\ a\ time\ and\ needs\ to\ take\ breaks\ in\ between.\ \n\ <p>\n\ \n\ @author\ Clara\ Hong\n\ @version\ November\ 2022\n
+comment1.params=
+comment1.target=Apricat()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ findDirtyTable()
+comment4.params=
+comment4.target=void\ cleanTable()
+comment5.params=speed
+comment5.target=void\ moveTowardsTargetTable(int)
+comment6.params=
+comment6.target=void\ takeBreak()
+comment6.text=\ \n\ Method\ for\ Apricat,\ the\ cleaner,\ to\ take\ breaks.\ \n\ She\ has\ a\ specified\ coordinate\ where\ she\ would\ take\ a\ break\ -\ and\ she\ \n\ will\ go\ to\ that\ spot.\ Once\ at\ the\ location,\ she\ will\ start\ a\ cooldown\ \n\ and\ stand\ there\ until\ the\ break's\ over.\ \n
+comment7.params=
+comment7.target=void\ lvlUp()
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StoryScreen
+comment0.text=\n\ The\ StoryScreen\ class\ is\ a\ World\ that\ is\ used\ to\ play\ out\ the\ backstory\ \n\ for\ the\ simulation.\ It\ displays\ the\ backstory\ by\ cycling\ through\ pre-made\n\ slides.\ \n\ <p>\n\ Shortcut\:\ press\ the\ enter\ key\ to\ skip\ the\ backstory\ and\ go\ straight\ to\n\ the\ settings/start\ screen.\ \n\ <p>\n\ Graphics\:\ The\ text\ was\ added\ by\ Clara\ Hong.\ Slide\ 1's\ image\ is\ from\ the\ \n\ Animal\ Restaurant\ Wiki\ under\ "The\ story\ of\ Gumi\ and\ Cici"\ -\ Old\ Journal\ \n\ Page\ 1.\ Slide\ 2's\ image\ was\ cut\ out\ from\ a\ screenshot\ under\ the\ article\ \n\ "Animal\ Restaurant\:\ Run\ your\ own\ adorable\ Restaurant."\ Slide\ 3's\ image\ is\ \n\ from\ the\ Animal\ Restaurant\ Wiki's\ entry\ for\ "Chef\ Gumi."\ Lastly,\ Slide\ 4's\ \n\ image\ incorporates\ the\ image\ used\ for\ Gumi,\ Apricat,\ and\ Timmy's\ characters.\ \n\ The\ background\ for\ this\ slide\ is\ an\ edited\ version\ of\ a\ screenshot\ \n\ of\ the\ title\ screen\ of\ for\ the\ official\ Animal\ Restaurant\ game\ \n\ that\ can\ be\ found\ on\ a\ TV\ tropes\ page\ called\ "Video\ Game/\ Animal\ Restaurant."\ \n\ <p>\n\ Links\:\ Slide\ 1\ (https\://animalrestaurant.fandom.com/wiki/The_story_of_Gumi_and_Cici),\ \n\ Slide\ 2\ (https\://gamingonphone.com/reviews/animal-restaurant-review/),\ \ \n\ Slide\ 3\ (https\://animalrestaurant.fandom.com/wiki/Chef_Gumi),\ \ \n\ Slide\ 4\ (https\://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AnimalRestaurant).\n\ \n\ @author\ Clara\ Hong\n\ @version\ Nov\ 2022\n
+comment1.params=
+comment1.target=StoryScreen()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ init()
+numComments=4

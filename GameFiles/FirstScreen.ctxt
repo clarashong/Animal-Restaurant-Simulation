@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FirstScreen
+comment0.text=\n\ First\ Screen\ is\ the\ first\ world\ the\ player\ will\ see\ when\ the\ simulation\ starts.\ \n\ It\ has\ a\ button,\ that\ when\ pressed,\ initiates\ the\ story\ sequence.\ \n\ \n\ @author\ Clara\ Hong\n\ @version\ November\ 2022\n
+comment1.params=
+comment1.target=FirstScreen()
+comment1.text=\n\ Constructor\ for\ FirstScreen\ that\ sets\ a\ background\n\ and\ creates\ a\ button\ that\ will\ switch\ Worlds\ when\ clicked\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Detects\ if\ a\ button\ has\ been\ clicked,\ which\ will\n\ switch\ Worlds\ to\ the\ StoryScreen\ World\n
+numComments=3

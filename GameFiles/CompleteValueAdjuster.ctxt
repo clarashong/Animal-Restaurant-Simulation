@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CompleteValueAdjuster
+comment0.text=\n\ Creates\ a\ bar\ with\ two\ arrows\ at\ the\ side.\ \n\ The\ centre\ bar\ will\ display\ the\ value\ to\ the\ user,\ \n\ while\ the\ left\ arrow\ will\ decrease\ the\ value\ in\ the\ centre\ \n\ by\ a\ given\ value\ and\ the\ right\ arrow\ will\ increase\ it\ by\ the\ \n\ same\ value.\n\ <p>\n\ The\ values\ that\ the\ value\ is\ increased/decreased\ by\ can\ be\ seen\n\ displayed\ on\ the\ arrows.\n
+comment1.params=w\ x\ y\ valName\ f\ max\ min\ buttonW\ buttonH\ valInt\ changeBy
+comment1.target=CompleteValueAdjuster(greenfoot.World,\ int,\ int,\ java.lang.String,\ greenfoot.Font,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\n\ @param\ w\ World\ to\ add\ actors\ in\n\ @param\ x\ Centre\ of\ the\ entire\ object\ as\ a\ system\ on\ the\ x\ axis\n\ @param\ y\ Centre\ of\ the\ entire\ object\ as\ a\ system\ on\ the\ y\ axis\n\ @param\ valName\ The\ name\ of\ what\ the\ centre\ value\ represents\n\ @param\ f\ Font\ that\ will\ be\ used\n\ @param\ max\ The\ maximum\ value\ you\ can\ set\ it\ to\n\ @param\ min\ The\ minimum\ value\ you\ can\ set\ it\ to\n\ @param\ buttonW\ The\ width\ of\ the\ arrows\n\ @param\ buttonH\ The\ height\ of\ the\ arrows\n\ @param\ valInt\ The\ original\ centre\ value.\n\ @param\ changeBy\ The\ amount\ to\ change\ the\ centre\ value\ by\n
+comment2.params=
+comment2.target=void\ clicked()
+comment3.params=
+comment3.target=int\ getUpdatedValue()
+numComments=4

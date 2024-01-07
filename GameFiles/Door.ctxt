@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Door
+comment0.text=\n\ The\ 'spawner'\ for\ customers.\ Runs\ on\ a\ random\ number\ generator\ \n\ by\ a\ 'spawn\ rate'\ that\ is\ adjusted\ by\ how\ high\ the\ restaurant\ \n\ review\ is.\n\ \n\ @author\ Clara\ Hong,\ Marco\ Luong\ \n\ @version\ November\ 21,\ 2022\n
+comment1.params=
+comment1.target=Door()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=void\ storeClosed()
+comment4.text=\n\ Closes\ the\ store\ by\ stopping\ spawns\ and\ clearing\ the\ queue.\n
+comment5.params=review
+comment5.target=void\ storeOpen(int)
+comment5.text=\n\ Reopens\ the\ store\ by\ resuming\ spawns\ and\ changing\ the\ \n\ spawnRate\ by\ the\ review\ of\ the\ store\ (the\ higher,\ the\ faster).\ \n
+comment6.params=x
+comment6.target=void\ areTablesOpen(boolean)
+comment7.params=newRate
+comment7.target=void\ setSpawnRate(int)
+comment8.params=
+comment8.target=int\ getSpawnX()
+comment9.params=
+comment9.target=int\ getSpawnY()
+numComments=10

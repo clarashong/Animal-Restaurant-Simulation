@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PopUp
+comment0.text=\n\ \ PopUps\ are\ created\ by\ Customers\ when\ they\ finish\ eating,\ \n\ \ indicating\ payment\ and\ the\ amount\ of\ money\ earned.\n\ \ An\ additional\ constructor\ allows\ them\ to\ be\ created\n\ \ with\ a\ custom\ image\ for\ various\ different\ purposes.\n\ \ They\ will\ decrease\ in\ transparency\ and\ move\ upwards\ \n\ \ and\ are\ removed\ when\ transparency\ gets\ low\ enough.\n\ \ \n\ \ \n\ @author\ Joey\ Guan,\ Marco\ Luong\n\ @version\ November\ 21,\ 2022\n
+comment1.params=price
+comment1.target=PopUp(int)
+comment1.text=\n\ Constructor\ for\ payment\ PopUps\n\ \n\ @param\ price\ The\ amount\ of\ money\ paid\ by\ a\ customer\n
+comment2.params=img\ scaleW\ scaleL\ fontSize\ c\ line
+comment2.target=PopUp(greenfoot.GreenfootImage,\ int,\ int,\ int,\ greenfoot.Color,\ java.lang.String)
+comment2.text=\n\ Constructor\ for\ custom\ image\ PopUps\ with\ a\ specified\n\ String\ of\ text\ layered\ on\ it.\n\ \n\ @param\ img\ \ \ \ \ \ \ \ A\ specified\ GreenfootImage\n\ @param\ scaleW\ \ \ \ \ Width\ of\ img\n\ @param\ scaleL\ \ \ \ \ Length\ of\ img\n\ @param\ fontSize\ \ \ Size\ of\ text\n\ @param\ c\ \ \ \ \ \ \ \ \ \ Color\ of\ text\n\ @param\ line\ \ \ \ \ \ \ Text\ that\ you\ want\ to\ show\n\ \n
+comment3.params=
+comment3.target=void\ act()
+numComments=4

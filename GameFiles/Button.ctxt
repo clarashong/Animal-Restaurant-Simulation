@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\n\ An\ actor\ that\ the\ user\ interacts\ with\ through\ a\ mouse\ click.\ \n\ The\ default\ clicked()\ method\ is\ empty\ and\ is\ meant\ to\ be\ filled\ \n\ out\ with\ the\ action\ meant\ to\ be\ carried\ out\ when\ the\ actor\ is\ clicked.\ \n\ \n\ @author\ Marco\ Luong\n
+comment1.params=w\ h\ txt
+comment1.target=Button(int,\ int,\ java.lang.String)
+comment1.text=\n\ Main\ constructor\ for\ the\ actor.\ Gives\ an\ indicator\ of\ how\ \n\ big\ the\ button\ will\ be\ and\ what\ text\ it\ stores.\n\ \n\ @param\ w\ \ \ \ \ Width\ of\ button\n\ @param\ h\ \ \ \ \ Height\ of\ button\n\ @param\ txt\ \ \ Text\ displayed\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ clicked()
+numComments=4

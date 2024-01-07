@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Gumi
+comment0.text=\n\ Gumi\ is\ a\ subclass\ of\ Staff,\ the\ chef\ of\ the\ restaurant.\n\ He\ will\ receive\ food\ orders\ from\ Timmy,\ cook\ them,\ and\n\ place\ them\ on\ the\ counter\ for\ pickup\ and\ serving.\n\ \n\ @author\ Joey\ Guan\n\ @version\ November,\ 2022\n
+comment1.params=
+comment1.target=Gumi()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ findFreeStove()
+comment4.params=
+comment4.target=void\ findCookedFood()
+comment5.params=ordersFromTimmy
+comment5.target=void\ receiveOrders(java.util.ArrayList)
+comment6.params=
+comment6.target=void\ moveTowardsAndTakeFood()
+comment7.params=
+comment7.target=void\ moveTowardsCounter()
+comment8.params=
+comment8.target=void\ lvlUp()
+numComments=9

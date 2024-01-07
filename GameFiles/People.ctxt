@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=People
+comment0.text=\n\ Superclass\ of\ all\ 'people'\ in\ the\ simulation.\n\ \n\ @author\ Marco\ Luong,\ Joey\ Guan,\ Clara\ Hong\n
+comment1.params=a\ speed\ xOffset\ yOffset
+comment1.target=void\ moveTowards(greenfoot.Actor,\ int,\ int,\ int)
+comment1.text=\n\ Used\ to\ move\ an\ Actor\ towards\ a\ point\ relative\ to\ another\ Actor,\n\ while\ not\ showing\ any\ visible\ rotation\n\ \n\ @param\ a\ \ \ \ \ \ \ \ The\ Actor\ to\ move\ towards\n\ @param\ speed\ \ \ \ Speed\ that\ it\ should\ move\ at\n\ @param\ xOffset\ \ xOffset\ from\ the\ specified\ Actor's\ center\ x-Coordinate\n\ @param\ yOffset\ \ yOffset\ from\ the\ specified\ Actor's\ center\ y-Coordinate\n
+comment2.params=a\ speed\ xOffset\ yOffset
+comment2.target=boolean\ isAt(greenfoot.Actor,\ int,\ int,\ int)
+comment2.text=\n\ Returns\ whether\ or\ not\ the\ Actor\ calling\ the\ method\ is\ located\ \n\ at\ a\ specific\ point\ relative\ to\ a\ specified\ Actor.\ To\ do\ this\ \n\ the\ method\ creates\ destinationPoint\ HitBox\ actor\ at\ the\ specific\ point\n\ and\ a\ moverPoint\ HitBox\ actor\ that\ follows\ the\ calling\ Actor\ around.\n\ If\ the\ moverPoint\ intersects\ the\ destinationPoint;\ returns\ true;\ \n\ else\ returns\ false.\n\ \ \n\ @param\ a\ \ \ \ \ \ \ \ A\ specified\ Actor\n\ @param\ speed\ \ \ \ Speed\ of\ the\ caller\ Actor;\ used\ to\ decide\ how\ large\ the\ destinationPoint\ has\ to\ be\ to\ avoid\ bugs\n\ @param\ xOffset\ \ xOffset\ from\ the\ specified\ Actor's\ center\ x-Coordinate\n\ @param\ yOffset\ \ yOffset\ from\ the\ specified\ Actor's\ center\ y-Coordinate\n\ \n
+numComments=3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Drinks
+comment0.text=\n\ Drinks\ is\ a\ subclass\ of\ Foods.\ Planned,\ but\ not\ \n\ implemented.\ Would've\ resembled\ Food\ class,\ except\ \n\ that\ they\ are\ drinks.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Drinks()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ init()
+comment4.params=index
+comment4.target=java.lang.String\ getDrinksName(int)
+comment5.params=index
+comment5.target=int\ getDrinksPrice(int)
+comment6.params=index
+comment6.target=greenfoot.GreenfootImage\ getDrinksImage(int)
+numComments=7

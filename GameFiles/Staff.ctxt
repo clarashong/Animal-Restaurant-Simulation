@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Staff
+comment0.text=\n\ Superclass\ for\ the\ staff\ members\ of\ the\ restuarant.\n\ \n\ @author\ Joey\ Guan,\ Clara\ Hong,\ Marco\ Luong\n
+comment1.params=
+comment1.target=Staff()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ lvlUp()
+comment4.params=
+comment4.target=void\ expUp()
+numComments=5
