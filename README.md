@@ -11,7 +11,7 @@ While there is no gameplay, the goal of the simulation was to illustrate restaur
 
 ## Installation
 This simulation was made on Greenfoot. 
-In order for the game to be able to choose the solution word, users must have Greenfoot installed. 
+In order to run the game, users must have Greenfoot installed. 
 Greenfoot can be installed at:
 [https://www.greenfoot.org/download](https://www.greenfoot.org/download) 
 \
